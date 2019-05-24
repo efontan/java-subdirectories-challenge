@@ -3,7 +3,7 @@
 ### Solution 1: Hackerrank challenge
 Estimated time: 2 hours 30 minutes
 
-### Solution 2: Excersice
+### Solution 2: Extended exercise
 Estimated time: 3 hours 50 minutes
 
 **Problem:** Your program will simulate the creation of subdirectories (folders) on one of the disks of a computer. The input file to your program, prog5.dat, will contain a sequence of commands that a user might enter from a command line, and the output file prog5.out will contain the operating system’s responses to these commands.
