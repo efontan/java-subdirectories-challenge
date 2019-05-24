@@ -1,0 +1,13 @@
+out
+
+# intellij
+*.eml
+*.iml
+*.ipr
+*.iws
+.*.sw?
+.idea
+.editorconfig
+
+# java specific
+*.class
